@@ -7,3 +7,6 @@ The primary objective of this project is to display foundational knowledge of HT
 - Create meaningful commits, following conventional commits
 - Practice project initialisation
 - Create a functioning website using only HTML
+- Share some of my favourite meals!
+
+### Thank you for visiting my repo!
