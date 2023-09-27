@@ -1,4 +1,4 @@
-# Project: Recipes
+# Project: Lewis's Favourite Meals
 ### A project to utlise the skills learned so far in TheOdinProject
 In this project, I will display the skills I have learned so far during the Foundations Course in TheOdinProject.
 ### Main Objective
