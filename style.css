@@ -31,7 +31,12 @@ body {
 .redirect-container {
     text-align: center;
     margin-top: 20px;
-   
+    position: relative;
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 #ul-meal-link {
