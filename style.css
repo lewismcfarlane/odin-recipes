@@ -1,3 +1,59 @@
 body {
     font-family: Georgia, Garamond, sans-serif;
+    background-color: lightblue;
+}
+
+.header-container {
+    position: relative;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.landing-header {
+    font-size: 36px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    width: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.landing-image {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.redirect-container {
+    text-align: center;
+    margin-top: 20px;
+   
+}
+
+#ul-meal-link {
+    list-style-type: none;
+    padding-top: 10px;
+
+
+    
+}
+
+#ul-meal-link li {
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: brown;
+    margin: 0 38px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
