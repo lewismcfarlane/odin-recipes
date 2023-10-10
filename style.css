@@ -42,9 +42,7 @@ body {
 #ul-meal-link {
     list-style-type: none;
     padding-top: 10px;
-
-
-    
+    white-space: nowrap;
 }
 
 #ul-meal-link li {
@@ -54,6 +52,7 @@ body {
     color: white;
     background-color: brown;
     margin: 0 38px;
+
 
 }
 
