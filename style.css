@@ -61,7 +61,7 @@ body {
 #ul-meal-link {
     list-style-type: none;
     padding: 10px;
-    border: dotted black 5px;
+    /* border: dotted black 5px; */
     /* white-space: nowrap; */
 }
 
