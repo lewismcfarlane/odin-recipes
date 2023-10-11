@@ -1,15 +1,23 @@
 body {
     font-family: Georgia, Garamond, sans-serif;
     background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
 }
 
 .landing-container {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    /* position: relative; */
+    display: block;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
     margin: 0 100px;
+    width: 1000px;
 
 }
 
@@ -42,6 +50,8 @@ body {
     margin-top: 20px;
     position: relative;
     display: inline-block;
+    box-sizing: border-box;
+    width: 500px;
     /* display: flex; */
     /* flex-direction: row; */
     /* justify-content: center; */
@@ -51,7 +61,7 @@ body {
 #ul-meal-link {
     list-style-type: none;
     padding-top: 10px;
-    white-space: nowrap;
+    /* white-space: nowrap; */
 }
 
 #ul-meal-link li {
@@ -60,7 +70,7 @@ body {
     padding: 10px;
     color: white;
     background-color: brown;
-    margin: 0 38px;
+    margin: 0;
 
 
 }
